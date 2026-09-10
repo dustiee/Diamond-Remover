@@ -38,6 +38,6 @@ public static class InventoryPetButtonDiamondRevivalDisable
 
   public static bool Prefix()
   {
-    return true;
+    return false;
   }
 }
